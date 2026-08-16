@@ -15,11 +15,11 @@ the evidence, not the claim.
 
 | Repository | What it is |
 |---|---|
-| [n8n-automation-workflows](https://github.com/⟨username⟩/n8n-automation-workflows) | Three LLM-powered automations — document intake, request routing, source monitoring — with a 60-second demo |
-| [mcp-postgres-server](https://github.com/⟨username⟩/mcp-postgres-server) | MCP server in Python: safe read-only PostgreSQL access for LLM agents |
-| [claude-code-skills](https://github.com/⟨username⟩/claude-code-skills) | Claude Code Skills — SQL review, BPMN generation, pre-automation process audit |
-| [bpmn-process-models](https://github.com/⟨username⟩/bpmn-process-models) | BPMN 2.0 models of a real ERP process — AS-IS, TO-BE and the reasoning between them |
-| [rag-knowledge-bot](https://github.com/⟨username⟩/rag-knowledge-bot) | RAG over a private document set — FastAPI, Qdrant, chunking and reranking |
+| [n8n-automation-workflows](https://github.com/rzalevsky/n8n-automation-workflows) | Three LLM-powered automations — document intake, request routing, source monitoring — with a 60-second demo |
+| [mcp-postgres-server](https://github.com/rzalevsky/mcp-postgres-server) | MCP server in Python: safe read-only PostgreSQL access for LLM agents |
+| [claude-code-skills](https://github.com/rzalevsky/claude-code-skills) | Claude Code Skills — SQL review, BPMN generation, pre-automation process audit |
+| [bpmn-process-models](https://github.com/rzalevsky/bpmn-process-models) | BPMN 2.0 models of a real ERP process — AS-IS, TO-BE and the reasoning between them |
+| [rag-knowledge-bot](https://github.com/rzalevsky/rag-knowledge-bot) | RAG over a private document set — FastAPI, Qdrant, chunking and reranking |
 
 ### Stack
 
