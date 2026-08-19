@@ -15,11 +15,9 @@ the evidence, not the claim.
 
 | Repository | What it is |
 |---|---|
-| [n8n-automation-workflows](https://github.com/rzalevsky/n8n-automation-workflows) | Three LLM-powered automations — document intake, request routing, source monitoring — with a 60-second demo |
-| [mcp-postgres-server](https://github.com/rzalevsky/mcp-postgres-server) | MCP server in Python: safe read-only PostgreSQL access for LLM agents |
-| [claude-code-skills](https://github.com/rzalevsky/claude-code-skills) | Claude Code Skills — SQL review, BPMN generation, pre-automation process audit |
-| [bpmn-process-models](https://github.com/rzalevsky/bpmn-process-models) | BPMN 2.0 models of a real ERP process — AS-IS, TO-BE and the reasoning between them |
-| [rag-knowledge-bot](https://github.com/rzalevsky/rag-knowledge-bot) | RAG over a private document set — FastAPI, Qdrant, chunking and reranking |
+| [n8n-automation-workflows](https://github.com/rzalevsky/n8n-automation-workflows) | Three LLM-powered automations — document intake, request routing, source monitoring. Every model call runs on a locally hosted LLM, so the data never leaves the network |
+| [mcp-postgres-server](https://github.com/rzalevsky/mcp-postgres-server) | MCP server in Python: safe read-only PostgreSQL access for LLM agents — AST-based SQL validation, read-only transactions, least-privilege role, tests |
+| [bpmn-process-models](https://github.com/rzalevsky/bpmn-process-models) | BPMN 2.0 demonstration models of three ERP processes — AS-IS, TO-BE and the reasoning between them |
 
 ### Stack
 
